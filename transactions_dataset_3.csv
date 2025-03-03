@@ -1,0 +1,21 @@
+TransactionID,Items
+1,Speakers;Lab Top Case;Anti-Virus
+2,External Hard-Drive;﻿Digital Camera;Lab Top
+3,Desk Top;Printer;Flash Drive
+4,Microsoft Office;Speakers;Lab Top Case
+5,Anti-Virus;External Hard-Drive;﻿Digital Camera
+6,Lab Top;Desk Top;Printer
+7,Flash Drive;Microsoft Office;Speakers
+8,Lab Top Case;Anti-Virus;External Hard-Drive
+9,﻿Digital Camera;Lab Top;Desk Top
+10,Printer;Flash Drive;Microsoft Office
+11,Speakers;Lab Top Case;Anti-Virus
+12,External Hard-Drive;﻿Digital Camera;Lab Top
+13,Desk Top;Printer;Flash Drive
+14,Microsoft Office;Speakers;Lab Top Case
+15,Anti-Virus;External Hard-Drive;﻿Digital Camera
+16,Lab Top;Desk Top;Printer
+17,Flash Drive;Microsoft Office;Speakers
+18,Lab Top Case;Anti-Virus;External Hard-Drive
+19,﻿Digital Camera;Lab Top;Desk Top
+20,Printer;Flash Drive;Microsoft Office
